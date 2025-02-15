@@ -1,0 +1,64 @@
+.link1 {
+  box-shadow: inset 0 0 0 0 #3ab5db;
+  color: #1a9cbd;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+.link1:hover {
+  color: #000;
+  box-shadow: inset 200px 0 0 0 #3ab5db;;
+}
+
+.link2 {
+    box-shadow: inset 0 0 0 0 #3ab5db;
+    color: #1a9cbd;
+    padding: 0 .25rem;
+    margin: 0 -.25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  
+.link2:hover {
+    color: #000;
+    box-shadow: inset 200px 0 0 0 #3ab5db;;
+}
+
+.link3 {
+    box-shadow: inset 0 0 0 0 #3ab5db;
+    color: #1a9cbd;
+    padding: 0 .25rem;
+    margin: 0 -.25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  
+.link3:hover {
+    color: #000;
+    box-shadow: inset 200px 0 0 0 #3ab5db;;
+}
+
+.link4 {
+    box-shadow: inset 0 0 0 0 #3ab5db;
+    color: #1a9cbd;
+    padding: 0 .25rem;
+    margin: 0 -.25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  
+.link4:hover {
+    color: #000;
+    box-shadow: inset 200px 0 0 0 #3ab5db;;
+}
+
+.linked {
+  box-shadow: inset 0 0 0 0 #3ab5db;
+  color: #1a9cbd;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+.linked:hover {
+  color: #000;
+  box-shadow: inset 200px 0 0 0 #3ab5db;;
+}
